@@ -44,6 +44,7 @@ Execution Environment: Google Colab
 
 
 Additional Aspects
+
 Data Visualization: The correlation matrix heatmap was a critical visualization tool, helping identify strong predictors like Humidity3pm and Sunshine. This visualization, with a figure size of 12x10 and annotations, ensured clarity in understanding feature relationships.
 Feature Importance: While not explicitly computed using advanced methods, feature importance was inferred from correlation analysis. Features with high correlations (e.g., Humidity3pm, Cloud3pm, RainToday) were prioritized, aiding model interpretability and performance.
 Challenges Faced: Several challenges were implicit in the project:
